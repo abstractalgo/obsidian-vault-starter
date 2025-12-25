@@ -1,0 +1,6 @@
+---
+type:
+  - "[[product]]"
+related: 
+url:
+---

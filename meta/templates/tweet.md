@@ -1,0 +1,6 @@
+---
+type:
+  - "[[tweet]]"
+related: 
+url:
+---

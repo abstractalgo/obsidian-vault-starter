@@ -1,0 +1,6 @@
+---
+type:
+  - "[[creator]]"
+related: 
+url:
+---

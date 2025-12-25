@@ -1,0 +1,27 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "attendees": "multitext",
+    "url": "multitext",
+    "length": "text",
+    "status": "multitext",
+    "priority": "multitext",
+    "abstract": "text",
+    "email": "text",
+    "repo": "multitext",
+    "project board": "multitext",
+    "difficulty": "multitext",
+    "impact": "multitext",
+    "exposure": "text",
+    "opportunities": "text",
+    "hypothesis": "text",
+    "log": "text",
+    "type": "multitext",
+    "authors": "multitext",
+    "year": "number",
+    "related": "multitext"
+  }
+}

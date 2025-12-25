@@ -1,0 +1,6 @@
+---
+type:
+  - "[[organization]]"
+related: 
+url:
+---
